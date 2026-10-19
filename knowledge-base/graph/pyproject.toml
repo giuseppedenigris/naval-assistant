@@ -1,0 +1,9 @@
+[project]
+name = "graph"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "lightrag-hku>=1.5.7",
+    "openai>=3.24.0",
+    "python-dotenv>=1.2.4",
+]
